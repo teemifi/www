@@ -1,3 +1,15 @@
 User-agent: *
 Disallow: /admin/
-Disallow: /index.html
+Disallow: /assets/
+Disallow: /demo/
+Disallow: /images/
+Disallow: /robots.txt
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: wget
+Disallow: /
+
+User-agent: *
+Disallow: /private/
