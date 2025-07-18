@@ -1,10 +1,5 @@
 User-agent: *
-Disallow: /assets/
-Disallow: /demo/
-Disallow: /images/
-Allow: /assets/images/brand-logos/favicon.ico
-Allow: /images/teemifi-og-image.png
-Allow: /teemifi-header-light.png
+Disallow: /
 
 User-agent: HTTrack
 Disallow: /
