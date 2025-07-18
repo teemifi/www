@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /demo/
+Sitemap: https://www.teemifi.com/sitemap.xml
 
 User-agent: HTTrack
 Disallow: /
