@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.teemifi.com/sitemap.xml
